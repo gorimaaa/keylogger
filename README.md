@@ -10,8 +10,6 @@ This project is a **minimalist keylogger** developed in C++ for educational purp
   - Characters specific to keyboard layouts (e.g., `à`, `ç`, etc.).
 - Handles special states: Caps Lock, Shift, Alt Gr, and Alt.
 
-⚠️ **Important Note**: This project is solely for educational purposes. Using software like this without proper authorization may violate laws. Always adhere to ethical and legal standards.
-
 ---
 
 ## Included Files 🗂️
@@ -33,13 +31,6 @@ The executable was scanned on **VirusTotal** and received a score of **4/72**, m
 
 ### 2. Execution
 Run the `main.exe` executable. All keyboard inputs will be logged into the `Record.txt` file.
-
----
-
-## Warnings ⚠️
-- **Responsible Use Only**: This project is intended for learning purposes. Do not use it for unethical or illegal activities.
-- **Antivirus Detection**: Antivirus software may flag this program as a threat, even in an educational context.
-- **Test Environment Recommended**: Run this program only in a controlled environment, such as a virtual machine.
 
 ---
 
